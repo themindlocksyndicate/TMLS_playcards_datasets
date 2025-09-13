@@ -1,0 +1,41 @@
+name: Build Datasets
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - 'schemas/**'
+      - '.github/workflows/build-datasets.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build datasets
+        run: |
+          python3 scripts/build_datasets.py
+
+      - name: Commit datasets
+        run: |
+          if [ -n "$(git status --porcelain datasets)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add datasets
+            git commit -m "chore: build datasets"
+            git push
+          else
+            echo "No dataset changes."
+          fi
