@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/card.schema.json",
+  "title": "TMLS Card",
+  "type": "object",
+  "required": [
+    "id",
+    "slug",
+    "category",
+    "category_slug",
+    "card",
+    "hints"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "category_slug": {
+      "type": "string"
+    },
+    "card": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "symbol": {
+      "type": "string"
+    },
+    "rarity": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "hints": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "flavor": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "extra": {
+      "type": "object"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
