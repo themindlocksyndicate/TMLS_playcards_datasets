@@ -1,0 +1,122 @@
+[
+  {
+    "id": "8b7bb380-0a2f-531b-869c-fd9c5a481d26",
+    "slug": "increase-decrease-1",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "1",
+    "subtitle": "Increase One",
+    "symbol": "plus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“More than before, and still not enough.”",
+      "“A single spark feeds the flame.”",
+      "“Each gain is an invitation for another.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "f9e82d8a-e5f8-5559-adfd-2d08e9c0843c",
+    "slug": "increase-decrease-3",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "3",
+    "subtitle": "Increase Three",
+    "symbol": "plus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The pressure builds—higher, harder.”",
+      "“Tripled intensity makes choice vanish.”",
+      "“Every surge leaves the walls thinner.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "b579d248-dba5-5cdc-b8ce-72e9710da4f8",
+    "slug": "increase-decrease-5",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "5",
+    "subtitle": "Increase Five",
+    "symbol": "plus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“An avalanche of sensation collapses your will.”",
+      "“Breathless, you cannot measure where it ends.”",
+      "“Too much, yet exactly as designed.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "8b7bb380-0a2f-531b-869c-fd9c5a481d26",
+    "slug": "increase-decrease-1",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "-1",
+    "subtitle": "Decrease One",
+    "symbol": "minus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“A small silence slips in.”",
+      "“One thread of thought is cut.”",
+      "“Lighter, emptier, hollower.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "f9e82d8a-e5f8-5559-adfd-2d08e9c0843c",
+    "slug": "increase-decrease-3",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "-3",
+    "subtitle": "Decrease Three",
+    "symbol": "minus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Drained more quickly than you can refill.”",
+      "“Your strength fades in steps, three at a time.”",
+      "“A hollow opens that only submission can fill.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "b579d248-dba5-5cdc-b8ce-72e9710da4f8",
+    "slug": "increase-decrease-5",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "-5",
+    "subtitle": "Decrease Five",
+    "symbol": "minus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Everything crumbles at once.”",
+      "“Your body resists less, your mind not at all.”",
+      "“There is nothing left to subtract.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  }
+]

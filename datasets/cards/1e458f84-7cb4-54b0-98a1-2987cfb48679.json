@@ -1,0 +1,20 @@
+{
+  "id": "1e458f84-7cb4-54b0-98a1-2987cfb48679",
+  "slug": "commands-stop",
+  "category": "Commands",
+  "category_slug": "commands",
+  "card": "Stop",
+  "subtitle": "Freeze in Place",
+  "symbol": "hand",
+  "rarity": "",
+  "color": "",
+  "hints": [
+    "“Her word halts you faster than thought.”",
+    "“Even air feels heavy when she says it.”",
+    "“Obedience is not hesitation—it is reflex.”"
+  ],
+  "flavor": "",
+  "tags": [],
+  "extra": {},
+  "notes": ""
+}

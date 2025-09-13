@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1077fc61-04cc-583b-b77f-12b5bc564181",
+    "slug": "artefacts-key",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Key",
+    "subtitle": "Unlocker",
+    "symbol": "key",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Every lock was meant to open.”",
+      "“The teeth fit perfectly, as if carved for you.”",
+      "“Behind the door waits only her voice.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "1a0b4d4f-1237-52c8-b50b-2a40ac2f768d",
+    "slug": "artefacts-mask",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Mask",
+    "subtitle": "Hidden Face",
+    "symbol": "mask",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The role you wear wears you.”",
+      "“Behind the mask, obedience is natural.”",
+      "“Which face is truly yours?”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "bdcd5b0e-cef7-50ad-8884-ca935c59abc5",
+    "slug": "artefacts-door",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Door",
+    "subtitle": "Threshold",
+    "symbol": "door",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“A frame that means surrender, not escape.”",
+      "“Every step across is another binding.”",
+      "“Doors do not open—minds do.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "680f1c5b-5cb3-5b37-be84-288022c0aa7d",
+    "slug": "artefacts-cappuccino",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Cappuccino",
+    "subtitle": "The Ritual",
+    "symbol": "cup",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Foam disguises command.”",
+      "“Every sip carries a suggestion.”",
+      "“The warmth in your hands is already hers.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  }
+]

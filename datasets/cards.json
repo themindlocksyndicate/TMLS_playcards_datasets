@@ -1,0 +1,482 @@
+[
+  {
+    "id": "32089a64-40d4-51a4-8db7-8394899e0706",
+    "slug": "inductions-relaxation",
+    "category": "Inductions",
+    "category_slug": "inductions",
+    "card": "Relaxation",
+    "subtitle": "Breath of Calm",
+    "symbol": "spiral",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Your breath slows… each exhale carries you deeper.”",
+      "“A body melting into the chair, the floor, the void.”",
+      "“Silence between words becomes the voice itself.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "c6417188-61f8-52a6-a82b-d5bd900c909e",
+    "slug": "inductions-covert",
+    "category": "Inductions",
+    "category_slug": "inductions",
+    "card": "Covert",
+    "subtitle": "Hidden Path",
+    "symbol": "mask",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“It sounds casual, but every phrase bends you.”",
+      "“The trick of distraction—while the door inside opens.”",
+      "“You never noticed you were already following.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "f95949a0-c788-52f8-a0f2-2e936c213466",
+    "slug": "inductions-fixation",
+    "category": "Inductions",
+    "category_slug": "inductions",
+    "card": "Fixation",
+    "subtitle": "Spiral Flame",
+    "symbol": "flame",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Eyes held too long, until the blink is surrender.”",
+      "“The flicker is not outside, it is behind your eyes.”",
+      "“Every circle draws you further inward.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "923fe067-9366-5b52-9937-44845eeabbe8",
+    "slug": "inductions-rapid",
+    "category": "Inductions",
+    "category_slug": "inductions",
+    "card": "Rapid",
+    "subtitle": "Sudden Drop",
+    "symbol": "lightning",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The snap comes faster than thought.”",
+      "“Shock unravels the mind before it can resist.”",
+      "“Falling in an instant feels natural.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "3f62be91-7741-527d-bab4-438a833c4ad1",
+    "slug": "inductions-confusion",
+    "category": "Inductions",
+    "category_slug": "inductions",
+    "card": "Confusion",
+    "subtitle": "Double Bind",
+    "symbol": "ouroboros",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The loop that closes no matter which path you take.”",
+      "“Yes or no, each answer ties you tighter.”",
+      "“The knot untangles only by letting go.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "cca145bf-8629-5c36-9c2b-ec184835543d",
+    "slug": "inductions-fractionation",
+    "category": "Inductions",
+    "category_slug": "inductions",
+    "card": "Fractionation",
+    "subtitle": "Rise & Fall",
+    "symbol": "arrows",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Each awakening only makes the drop more delicious.”",
+      "“Climb, descend, repeat, until the difference dissolves.”",
+      "“The pendulum writes its own command.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "8b7bb380-0a2f-531b-869c-fd9c5a481d26",
+    "slug": "increase-decrease-1",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "1",
+    "subtitle": "Increase One",
+    "symbol": "plus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“More than before, and still not enough.”",
+      "“A single spark feeds the flame.”",
+      "“Each gain is an invitation for another.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "f9e82d8a-e5f8-5559-adfd-2d08e9c0843c",
+    "slug": "increase-decrease-3",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "3",
+    "subtitle": "Increase Three",
+    "symbol": "plus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The pressure builds—higher, harder.”",
+      "“Tripled intensity makes choice vanish.”",
+      "“Every surge leaves the walls thinner.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "b579d248-dba5-5cdc-b8ce-72e9710da4f8",
+    "slug": "increase-decrease-5",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "5",
+    "subtitle": "Increase Five",
+    "symbol": "plus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“An avalanche of sensation collapses your will.”",
+      "“Breathless, you cannot measure where it ends.”",
+      "“Too much, yet exactly as designed.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "8b7bb380-0a2f-531b-869c-fd9c5a481d26",
+    "slug": "increase-decrease-1",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "-1",
+    "subtitle": "Decrease One",
+    "symbol": "minus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“A small silence slips in.”",
+      "“One thread of thought is cut.”",
+      "“Lighter, emptier, hollower.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "f9e82d8a-e5f8-5559-adfd-2d08e9c0843c",
+    "slug": "increase-decrease-3",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "-3",
+    "subtitle": "Decrease Three",
+    "symbol": "minus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Drained more quickly than you can refill.”",
+      "“Your strength fades in steps, three at a time.”",
+      "“A hollow opens that only submission can fill.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "b579d248-dba5-5cdc-b8ce-72e9710da4f8",
+    "slug": "increase-decrease-5",
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "card": "-5",
+    "subtitle": "Decrease Five",
+    "symbol": "minus",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Everything crumbles at once.”",
+      "“Your body resists less, your mind not at all.”",
+      "“There is nothing left to subtract.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "1077fc61-04cc-583b-b77f-12b5bc564181",
+    "slug": "artefacts-key",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Key",
+    "subtitle": "Unlocker",
+    "symbol": "key",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Every lock was meant to open.”",
+      "“The teeth fit perfectly, as if carved for you.”",
+      "“Behind the door waits only her voice.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "1a0b4d4f-1237-52c8-b50b-2a40ac2f768d",
+    "slug": "artefacts-mask",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Mask",
+    "subtitle": "Hidden Face",
+    "symbol": "mask",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The role you wear wears you.”",
+      "“Behind the mask, obedience is natural.”",
+      "“Which face is truly yours?”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "bdcd5b0e-cef7-50ad-8884-ca935c59abc5",
+    "slug": "artefacts-door",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Door",
+    "subtitle": "Threshold",
+    "symbol": "door",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“A frame that means surrender, not escape.”",
+      "“Every step across is another binding.”",
+      "“Doors do not open—minds do.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "680f1c5b-5cb3-5b37-be84-288022c0aa7d",
+    "slug": "artefacts-cappuccino",
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "card": "Cappuccino",
+    "subtitle": "The Ritual",
+    "symbol": "cup",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Foam disguises command.”",
+      "“Every sip carries a suggestion.”",
+      "“The warmth in your hands is already hers.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "1e458f84-7cb4-54b0-98a1-2987cfb48679",
+    "slug": "commands-stop",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Stop",
+    "subtitle": "Freeze in Place",
+    "symbol": "hand",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Her word halts you faster than thought.”",
+      "“Even air feels heavy when she says it.”",
+      "“Obedience is not hesitation—it is reflex.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "564e430e-f32b-5fe0-9164-d63739102d0f",
+    "slug": "commands-open",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Open",
+    "subtitle": "Unlocked Mind",
+    "symbol": "arrow_open",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The body opens, but so does the mind.”",
+      "“Her voice pushes doors wide without knocking.”",
+      "“Opening means receiving, without refusal.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "9a009263-d28f-5aa3-af02-f954cc2215a8",
+    "slug": "commands-swallow",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Swallow",
+    "subtitle": "Into the Body",
+    "symbol": "throat",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The word slides deeper than the throat.”",
+      "“What enters you cannot be undone.”",
+      "“Swallowing seals the suggestion inside.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "ad51afa2-12ff-53e7-a8b1-d83c09cfd820",
+    "slug": "commands-slurp",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Slurp",
+    "subtitle": "Jolt of Pleasure",
+    "symbol": "tongue",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The sound is obscene, and irresistible.”",
+      "“Each sip of hers becomes a throb in you.”",
+      "“Slurping is laughing at your weakness.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "fe036a3a-bc94-57b7-a9ce-63f3d70860ee",
+    "slug": "commands-snap",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Snap",
+    "subtitle": "Pleasure Trigger",
+    "symbol": "snap",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The crack splits thought from body.”",
+      "“Every snap lands where reason cannot.”",
+      "“It is the rhythm of control.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "10790f5c-b1c7-52d6-aab8-1f7d2fabd688",
+    "slug": "commands-dance",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Dance",
+    "subtitle": "Erection Puppet",
+    "symbol": "puppet",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Your body moves though you did not choose.”",
+      "“Pleasure makes it sway, not you.”",
+      "“Her laughter choreographs your arousal.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "851be1c0-2320-5433-b45c-155d460792e7",
+    "slug": "commands-hold",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Hold",
+    "subtitle": "Dry Orgasm",
+    "symbol": "hold",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The climax denied becomes a deeper prison.”",
+      "“Locked inside, trembling at her mercy.”",
+      "“Holding is proof of ownership.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "4464382e-260a-5d36-b9a7-eab4c254de9e",
+    "slug": "commands-spurt",
+    "category": "Commands",
+    "category_slug": "commands",
+    "card": "Spurt",
+    "subtitle": "Controlled Release",
+    "symbol": "spurt",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Release only when she wills it.”",
+      "“Pleasure obeys command, not urge.”",
+      "“Even freedom is framed as obedience.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  }
+]

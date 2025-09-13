@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Inductions",
+    "category_slug": "inductions",
+    "count": 6
+  },
+  {
+    "category": "Increase/Decrease",
+    "category_slug": "increase-decrease",
+    "count": 6
+  },
+  {
+    "category": "Artefacts",
+    "category_slug": "artefacts",
+    "count": 4
+  },
+  {
+    "category": "Commands",
+    "category_slug": "commands",
+    "count": 8
+  }
+]

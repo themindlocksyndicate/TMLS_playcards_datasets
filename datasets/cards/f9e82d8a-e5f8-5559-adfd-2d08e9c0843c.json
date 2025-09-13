@@ -1,0 +1,20 @@
+{
+  "id": "f9e82d8a-e5f8-5559-adfd-2d08e9c0843c",
+  "slug": "increase-decrease-3",
+  "category": "Increase/Decrease",
+  "category_slug": "increase-decrease",
+  "card": "-3",
+  "subtitle": "Decrease Three",
+  "symbol": "minus",
+  "rarity": "",
+  "color": "",
+  "hints": [
+    "“Drained more quickly than you can refill.”",
+    "“Your strength fades in steps, three at a time.”",
+    "“A hollow opens that only submission can fill.”"
+  ],
+  "flavor": "",
+  "tags": [],
+  "extra": {},
+  "notes": ""
+}

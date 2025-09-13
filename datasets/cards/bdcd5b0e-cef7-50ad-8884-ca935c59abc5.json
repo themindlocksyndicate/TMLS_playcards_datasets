@@ -1,0 +1,20 @@
+{
+  "id": "bdcd5b0e-cef7-50ad-8884-ca935c59abc5",
+  "slug": "artefacts-door",
+  "category": "Artefacts",
+  "category_slug": "artefacts",
+  "card": "Door",
+  "subtitle": "Threshold",
+  "symbol": "door",
+  "rarity": "",
+  "color": "",
+  "hints": [
+    "“A frame that means surrender, not escape.”",
+    "“Every step across is another binding.”",
+    "“Doors do not open—minds do.”"
+  ],
+  "flavor": "",
+  "tags": [],
+  "extra": {},
+  "notes": ""
+}
