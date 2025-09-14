@@ -1,4 +1,4 @@
-name: Publish datasets to GitHub Pages
+name: Build & Publish datasets to GitHub Pages
 
 on:
   push:
@@ -18,10 +18,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # 1) Build datasets here (so ze bestaan in de artifact, zelfs als ze nog niet gecommit zijn)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Generate datasets
+        run: |
+          python3 scripts/build_datasets.py
+          test -f datasets/cards.json && echo "Datasets built ✅" || (echo "Missing datasets/cards.json ❌" && exit 1)
+
+      # 2) Upload de hele repo of alleen datasets/. Voor zekerheid: hele repo.
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
