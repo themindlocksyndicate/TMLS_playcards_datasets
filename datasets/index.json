@@ -1,7 +1,7 @@
 [
   {
-    "category": "Inductions",
-    "category_slug": "inductions",
+    "category": "Induction",
+    "category_slug": "induction",
     "count": 6
   },
   {
@@ -10,13 +10,13 @@
     "count": 6
   },
   {
-    "category": "Artefacts",
-    "category_slug": "artefacts",
+    "category": "Artefact",
+    "category_slug": "artefact",
     "count": 4
   },
   {
-    "category": "Commands",
-    "category_slug": "commands",
+    "category": "Command",
+    "category_slug": "command",
     "count": 8
   }
 ]

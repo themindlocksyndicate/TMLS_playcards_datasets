@@ -1,0 +1,20 @@
+{
+  "id": "60b374ed-c79e-5326-bb70-b506cb0aeff5",
+  "slug": "artefact-key",
+  "category": "Artefact",
+  "category_slug": "artefact",
+  "card": "Key",
+  "subtitle": "Unlocker",
+  "symbol": "key",
+  "rarity": "",
+  "color": "",
+  "hints": [
+    "“Every lock was meant to open.”",
+    "“The teeth fit perfectly, as if carved for you.”",
+    "“Behind the door waits only her voice.”"
+  ],
+  "flavor": "",
+  "tags": [],
+  "extra": {},
+  "notes": ""
+}

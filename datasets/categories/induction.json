@@ -1,0 +1,122 @@
+[
+  {
+    "id": "858eea88-819d-5d03-b54b-ddea2891df3e",
+    "slug": "induction-relaxation",
+    "category": "Induction",
+    "category_slug": "induction",
+    "card": "Relaxation",
+    "subtitle": "Breath of Calm",
+    "symbol": "spiral",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Your breath slows… each exhale carries you deeper.”",
+      "“A body melting into the chair, the floor, the void.”",
+      "“Silence between words becomes the voice itself.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "156e98eb-c8e4-5e5f-bcb4-b2f0bfca40af",
+    "slug": "induction-covert",
+    "category": "Induction",
+    "category_slug": "induction",
+    "card": "Covert",
+    "subtitle": "Hidden Path",
+    "symbol": "mask",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“It sounds casual, but every phrase bends you.”",
+      "“The trick of distraction—while the door inside opens.”",
+      "“You never noticed you were already following.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "14f527e2-d7ca-5cf4-ba2f-6db3fdcc92e8",
+    "slug": "induction-fixation",
+    "category": "Induction",
+    "category_slug": "induction",
+    "card": "Fixation",
+    "subtitle": "Spiral Flame",
+    "symbol": "flame",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Eyes held too long, until the blink is surrender.”",
+      "“The flicker is not outside, it is behind your eyes.”",
+      "“Every circle draws you further inward.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "aa2d73de-48e8-5adb-9fd9-f3467f0bba1f",
+    "slug": "induction-rapid",
+    "category": "Induction",
+    "category_slug": "induction",
+    "card": "Rapid",
+    "subtitle": "Sudden Drop",
+    "symbol": "lightning",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The snap comes faster than thought.”",
+      "“Shock unravels the mind before it can resist.”",
+      "“Falling in an instant feels natural.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "4c943cff-556f-5fc4-afe6-ff386b4fc6a3",
+    "slug": "induction-confusion",
+    "category": "Induction",
+    "category_slug": "induction",
+    "card": "Confusion",
+    "subtitle": "Double Bind",
+    "symbol": "ouroboros",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“The loop that closes no matter which path you take.”",
+      "“Yes or no, each answer ties you tighter.”",
+      "“The knot untangles only by letting go.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  },
+  {
+    "id": "1611a1fd-e009-5076-a357-a4c6bfc1460b",
+    "slug": "induction-fractionation",
+    "category": "Induction",
+    "category_slug": "induction",
+    "card": "Fractionation",
+    "subtitle": "Rise & Fall",
+    "symbol": "arrows",
+    "rarity": "",
+    "color": "",
+    "hints": [
+      "“Each awakening only makes the drop more delicious.”",
+      "“Climb, descend, repeat, until the difference dissolves.”",
+      "“The pendulum writes its own command.”"
+    ],
+    "flavor": "",
+    "tags": [],
+    "extra": {},
+    "notes": ""
+  }
+]

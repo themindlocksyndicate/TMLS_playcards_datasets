@@ -1,9 +1,9 @@
 [
   {
-    "id": "32089a64-40d4-51a4-8db7-8394899e0706",
-    "slug": "inductions-relaxation",
-    "category": "Inductions",
-    "category_slug": "inductions",
+    "id": "858eea88-819d-5d03-b54b-ddea2891df3e",
+    "slug": "induction-relaxation",
+    "category": "Induction",
+    "category_slug": "induction",
     "card": "Relaxation",
     "subtitle": "Breath of Calm",
     "symbol": "spiral",
@@ -20,10 +20,10 @@
     "notes": ""
   },
   {
-    "id": "c6417188-61f8-52a6-a82b-d5bd900c909e",
-    "slug": "inductions-covert",
-    "category": "Inductions",
-    "category_slug": "inductions",
+    "id": "156e98eb-c8e4-5e5f-bcb4-b2f0bfca40af",
+    "slug": "induction-covert",
+    "category": "Induction",
+    "category_slug": "induction",
     "card": "Covert",
     "subtitle": "Hidden Path",
     "symbol": "mask",
@@ -40,10 +40,10 @@
     "notes": ""
   },
   {
-    "id": "f95949a0-c788-52f8-a0f2-2e936c213466",
-    "slug": "inductions-fixation",
-    "category": "Inductions",
-    "category_slug": "inductions",
+    "id": "14f527e2-d7ca-5cf4-ba2f-6db3fdcc92e8",
+    "slug": "induction-fixation",
+    "category": "Induction",
+    "category_slug": "induction",
     "card": "Fixation",
     "subtitle": "Spiral Flame",
     "symbol": "flame",
@@ -60,10 +60,10 @@
     "notes": ""
   },
   {
-    "id": "923fe067-9366-5b52-9937-44845eeabbe8",
-    "slug": "inductions-rapid",
-    "category": "Inductions",
-    "category_slug": "inductions",
+    "id": "aa2d73de-48e8-5adb-9fd9-f3467f0bba1f",
+    "slug": "induction-rapid",
+    "category": "Induction",
+    "category_slug": "induction",
     "card": "Rapid",
     "subtitle": "Sudden Drop",
     "symbol": "lightning",
@@ -80,10 +80,10 @@
     "notes": ""
   },
   {
-    "id": "3f62be91-7741-527d-bab4-438a833c4ad1",
-    "slug": "inductions-confusion",
-    "category": "Inductions",
-    "category_slug": "inductions",
+    "id": "4c943cff-556f-5fc4-afe6-ff386b4fc6a3",
+    "slug": "induction-confusion",
+    "category": "Induction",
+    "category_slug": "induction",
     "card": "Confusion",
     "subtitle": "Double Bind",
     "symbol": "ouroboros",
@@ -100,10 +100,10 @@
     "notes": ""
   },
   {
-    "id": "cca145bf-8629-5c36-9c2b-ec184835543d",
-    "slug": "inductions-fractionation",
-    "category": "Inductions",
-    "category_slug": "inductions",
+    "id": "1611a1fd-e009-5076-a357-a4c6bfc1460b",
+    "slug": "induction-fractionation",
+    "category": "Induction",
+    "category_slug": "induction",
     "card": "Fractionation",
     "subtitle": "Rise & Fall",
     "symbol": "arrows",
@@ -240,10 +240,10 @@
     "notes": ""
   },
   {
-    "id": "1077fc61-04cc-583b-b77f-12b5bc564181",
-    "slug": "artefacts-key",
-    "category": "Artefacts",
-    "category_slug": "artefacts",
+    "id": "60b374ed-c79e-5326-bb70-b506cb0aeff5",
+    "slug": "artefact-key",
+    "category": "Artefact",
+    "category_slug": "artefact",
     "card": "Key",
     "subtitle": "Unlocker",
     "symbol": "key",
@@ -260,10 +260,10 @@
     "notes": ""
   },
   {
-    "id": "1a0b4d4f-1237-52c8-b50b-2a40ac2f768d",
-    "slug": "artefacts-mask",
-    "category": "Artefacts",
-    "category_slug": "artefacts",
+    "id": "32482cc5-7e33-5f74-9daf-7a82fa10b195",
+    "slug": "artefact-mask",
+    "category": "Artefact",
+    "category_slug": "artefact",
     "card": "Mask",
     "subtitle": "Hidden Face",
     "symbol": "mask",
@@ -280,10 +280,10 @@
     "notes": ""
   },
   {
-    "id": "bdcd5b0e-cef7-50ad-8884-ca935c59abc5",
-    "slug": "artefacts-door",
-    "category": "Artefacts",
-    "category_slug": "artefacts",
+    "id": "79efc982-881a-59ae-9403-db6a352f9811",
+    "slug": "artefact-door",
+    "category": "Artefact",
+    "category_slug": "artefact",
     "card": "Door",
     "subtitle": "Threshold",
     "symbol": "door",
@@ -300,10 +300,10 @@
     "notes": ""
   },
   {
-    "id": "680f1c5b-5cb3-5b37-be84-288022c0aa7d",
-    "slug": "artefacts-cappuccino",
-    "category": "Artefacts",
-    "category_slug": "artefacts",
+    "id": "96d723a3-062c-591f-8caf-e7ccb2d63c5b",
+    "slug": "artefact-cappuccino",
+    "category": "Artefact",
+    "category_slug": "artefact",
     "card": "Cappuccino",
     "subtitle": "The Ritual",
     "symbol": "cup",
@@ -320,10 +320,10 @@
     "notes": ""
   },
   {
-    "id": "1e458f84-7cb4-54b0-98a1-2987cfb48679",
-    "slug": "commands-stop",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "12391030-370f-5074-853d-64adfdfbcc68",
+    "slug": "command-stop",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Stop",
     "subtitle": "Freeze in Place",
     "symbol": "hand",
@@ -340,10 +340,10 @@
     "notes": ""
   },
   {
-    "id": "564e430e-f32b-5fe0-9164-d63739102d0f",
-    "slug": "commands-open",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "2a074370-2e17-56bc-ab3b-aaaa45f3a536",
+    "slug": "command-open",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Open",
     "subtitle": "Unlocked Mind",
     "symbol": "arrow_open",
@@ -360,10 +360,10 @@
     "notes": ""
   },
   {
-    "id": "9a009263-d28f-5aa3-af02-f954cc2215a8",
-    "slug": "commands-swallow",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "b1ed8fd6-ce7a-5a0b-b220-fabd97fe16db",
+    "slug": "command-swallow",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Swallow",
     "subtitle": "Into the Body",
     "symbol": "throat",
@@ -380,10 +380,10 @@
     "notes": ""
   },
   {
-    "id": "ad51afa2-12ff-53e7-a8b1-d83c09cfd820",
-    "slug": "commands-slurp",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "a0b8fff8-d0f8-5d57-a75f-a7dc4b96f83b",
+    "slug": "command-slurp",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Slurp",
     "subtitle": "Jolt of Pleasure",
     "symbol": "tongue",
@@ -400,10 +400,10 @@
     "notes": ""
   },
   {
-    "id": "fe036a3a-bc94-57b7-a9ce-63f3d70860ee",
-    "slug": "commands-snap",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "89fa0466-d816-5b5f-a4ce-ec157e2d7233",
+    "slug": "command-snap",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Snap",
     "subtitle": "Pleasure Trigger",
     "symbol": "snap",
@@ -420,10 +420,10 @@
     "notes": ""
   },
   {
-    "id": "10790f5c-b1c7-52d6-aab8-1f7d2fabd688",
-    "slug": "commands-dance",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "f116e047-abfb-5dc3-a48b-354d9368c3a7",
+    "slug": "command-dance",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Dance",
     "subtitle": "Erection Puppet",
     "symbol": "puppet",
@@ -440,10 +440,10 @@
     "notes": ""
   },
   {
-    "id": "851be1c0-2320-5433-b45c-155d460792e7",
-    "slug": "commands-hold",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "c8e37a00-ae80-52d2-a56f-1e8f357a7960",
+    "slug": "command-hold",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Hold",
     "subtitle": "Dry Orgasm",
     "symbol": "hold",
@@ -460,10 +460,10 @@
     "notes": ""
   },
   {
-    "id": "4464382e-260a-5d36-b9a7-eab4c254de9e",
-    "slug": "commands-spurt",
-    "category": "Commands",
-    "category_slug": "commands",
+    "id": "1a2b95b4-ff41-5e02-8871-f26871d87837",
+    "slug": "command-spurt",
+    "category": "Command",
+    "category_slug": "command",
     "card": "Spurt",
     "subtitle": "Controlled Release",
     "symbol": "spurt",
